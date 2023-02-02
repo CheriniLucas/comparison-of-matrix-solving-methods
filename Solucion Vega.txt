@@ -52,7 +52,7 @@ x6 =  5,745                  e% = 0,017%
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Al poder resolver sistemas de ecuaciones de hasta 3 incognitas con mi calculadora, puedo resolver simplificar las cuentas a desarrollar con este metodo ahorrando tiempo y generando menor error.
+Al poder resolver sistemas de ecuaciones de hasta 3 incognitas con mi calculadora puedo simplificar calculos ahorrando tiempo y reduciendo el error.
 
 8*x1+0*x2+1*x3+5*x4+3*x5+8*x6=1
 1*x1+9*x2+1*x3+4*x4+7*x5+4*x6=6
