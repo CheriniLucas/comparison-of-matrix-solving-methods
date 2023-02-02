@@ -17,9 +17,9 @@ I have not been able to find official information about this method, so I don't 
 This method was published on July 23, 2016 on YouTube by Mechatronic Engineer Héctor Manual Vega, professor at the University of San Buenaventura, Colombia.
 The method consists, like Gauss's, in a reduction of the original matrix, but making use of the calculation of determinants. It is complex to explain, so let's go to an example.
 
-                      |a11 a12 a13 : A1|       |b11 b12 : B1|                    b11 = a11*a22-a21*a12
-                      |a21 a22 a23 : A2|  -->  |b21 b22 : B2|                    b12 = a11*a23-a21*a13
-                      |a31 a32 a33 : A3|                                         B2  = a11*A3-a31*A1
+                 |a11 a12 a13 : A1|       |b11 b12 : B1|                    b11 = a11*a22-a21*a12
+                 |a21 a22 a23 : A2|  -->  |b21 b22 : B2|                    b12 = a11*a23-a21*a13
+                 |a31 a32 a33 : A3|                                         B2  = a11*A3-a31*A1
 
 The idea now is to compare the steps needed to solve the system of equations with each of the methods, also taking into account the traditional way. For this I will use a system of six equations with six unknowns, since it is a fairly common system in my day to day.
 
