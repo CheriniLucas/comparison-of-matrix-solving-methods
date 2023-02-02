@@ -52,4 +52,4 @@ TIEMPO HASTA ESTE PUNTO: 52 MINUTOS
 
 TIEMPO ESTIMADO PARA OBTENER PRIMER DETERMINANTE: 298 MINUTOS
 
-TIEMPO ESTIMADO TOTAL (seis determinantes necesarios): 2086 MINUTOS  (30hs aproximadamente)
+TIEMPO ESTIMADO TOTAL (siete determinantes necesarios): 2086 MINUTOS  (30hs aproximadamente)
