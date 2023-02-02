@@ -30,8 +30,11 @@ Once the resolutions are done, I obtain the following data:
 -Vega method:             48 min
 
 Already with the results, I was very surprised to see how slow Cramer's rule becomes for matrices larger than 3x3, it was much more than I expected, so I abandoned the resolution when I had approximately 1/6 of the resolution of the first determinant, with 52 minutes and being 7 determinants in total.
+
 In the traditional way it was what was expected, I solved the exercise in 114min, it was a long and tedious process, where you have to be careful not to confuse any value and sign.
+
 With the Gauss method, you save a lot of time, it is easy to carry out without getting lost and it does not generate much error (around 0.4%).
+
 Finally, the Vega method. By far my favorite on the list, it has a very fast resolution, it is easy to carry out and it introduces practically no error (just under 0.1%).To this is added that during the process equivalent matrices are generated with one degree less per step, giving the possibility of using the resolution of equations of a calculator (simple scientific) when arriving at a 3x3 matrix. This manages to improve the time to 39 minutes and reducing the error to 0.03%.
 
 I leave the files with the resolutions in case you want to see and review the step by step. Along with these there is also a small C program that applies the Vega method in matrices of up to 10x10 showing the step by step until reaching the final result.
