@@ -41,12 +41,18 @@ x1=1/8+1/8*2,3446+5/8*1,8819+3/8*3,3311-5,7452  -->  x1=-2,9018
 
 TIEMPO TOTAL: 114 MINUTOS
 
-ERROR
-los resultados obtenidos por MatLab son:
-x1 = -2,902                  e% = 0,007%
-x2 =  2,124       por        e% = 0,028%
-x3 = -2,346       lo         e% = 0,059%
-x4 = -1,882      tanto       e% = 0,005%
-x5 = -3,331                  e% = 0,003%
-x6 =  5,745                  e% = 0,003%
+Resultados obtenidos por MatLab:
+x1 = -2,902
+x2 =  2,124
+x3 = -2,346
+x4 = -1,882
+x5 = -3,331
+x6 =  5,745
 
+Resultados del metodo tradicional y el error asociado:
+x1 = -2,9018 - e% = 0,007%
+x2 =  2,1234 - e% = 0,028%
+x3 = -2,3446 - e% = 0,059%
+x4 = -1,8819 - e% = 0,005%
+x5 = -3,3311 - e% = 0,003%
+x6 =  5,7452 - e% = 0,003%
